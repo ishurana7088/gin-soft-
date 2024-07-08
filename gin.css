@@ -1,0 +1,267 @@
+ul li a{
+   font-weight: 500;
+   font-size:16px;
+   
+}
+.lightred{
+    background:linear-gradient( to right, rgb(245, 15, 65),rgba(73, 15, 67, 0.769));
+}
+.h1-64{
+    font-size:60px;
+}
+.red{
+    color:rgb(234, 64, 64);
+}
+.lightBlack{
+    color:rgba(50, 48, 48, 0.852) !important;
+}
+.cheight{
+    
+}
+.btndark{
+       padding:15px 20px 15px 20px;
+      border-radius:100px;
+       color:white;
+       background-color:rgba(62, 89, 118, 0.906);
+       border:none !important;
+       font-weight: 500;
+       
+}
+.divs{
+    width:80%;
+    
+}
+.btnlight{
+    padding:15px 20px 15px 20px;
+   border-radius:100px;
+    color:white;
+    /* background-color:rgba(62, 89, 118, 0.906); */
+    /* border:none !important; */
+    font-weight: 500;
+    
+}
+
+
+
+/* 
+ */
+
+
+.boxS{
+    box-shadow:-1px 1px 4px 0px   rgb(59, 58, 58) ;
+    margin-bottom: 15px;
+}
+.boxSy{
+    box-shadow:1px 1px 14px 0px   rgb(59, 58, 58) ;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+.font{
+    font-weight:500 !important;
+    text-decoration: none;
+    color:rgb(83, 75, 75) !important
+}
+.learn-more{
+    color:red;
+    font-weight: 600;
+    text-decoration: none;
+    font-size:18px;
+}
+.heading{
+    font-size:48px;
+}
+.bg{
+    background: url(money-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:89vh;
+
+}
+.reds{
+    background-color:#ec1944 !important;
+}
+.footerbg{
+    background:url(footer-bg.png);
+     background-color:rgba(70, 95, 134, 0.957)   !important;
+
+    
+}
+.h{
+    width:60px !important;
+    height:10px !important;
+    color:rgb(239, 6, 6) !important;
+
+}
+.bg-blue{
+    background-color:rgba(17, 17, 81, 0.801);
+}
+.box{
+    border:3px solid rgb(250, 246, 246);
+    width:30px;
+    display: inline;
+    margin:20px;
+    padding-bottom: 10px;
+    border-radius:3;
+    text-align: center;
+}
+.fs{
+    font-size: 15px !important;
+}
+.h56px{
+    font-size: 56px;
+    font-weight: 500;
+}
+.box{
+    font-size:40px;
+    border:3px solid rgb(243, 239, 239);
+ border-radius:100% !important ;
+     height:60px;
+     width:60px;
+     
+}
+.hrrow{
+    width:100%;
+    background-color: red;
+    
+}
+.logos{ 
+    height:80px;
+    width:80px;
+}
+.redl{
+    color:#ff4867;
+    padding-top:15px;
+}
+.logo{
+    height:30px;
+    width:20px ;
+}
+.last{
+    float:right !important;
+    /* background-color: #ec1944; */
+   
+}
+a:hover{
+    color:red !important;
+}
+
+.hghghghh{
+    background-position: top;
+}
+
+
+
+
+
+
+
+
+.box1{
+    background:url(screencapture-baskidoor-2019-12-03-16_26_35-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   height:70vh;
+
+   
+}
+.box2{
+    background:url(screencapture-brandedonline-2019-12-04-10_52_01-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70vh;
+}
+.box3{
+    background:url(screencapture-eventmatches-2019-12-03-16_29_39-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70vh;
+}
+.box4{
+    background:url(screencapture-go4trip-net-2019-12-04-10_35_55-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70vh;
+}
+.box5{
+    width: 18% !important;
+    background:url(screencapture-wbec-clouddigitalmarketing-2019-12-03-16_31_45-scaled.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70vh;
+}
+
+
+.box1{
+    transition: 3s !important;
+  
+}
+.box1:hover{
+      
+      background-position: bottom;
+
+
+}
+
+
+
+.box2{
+    transition:3s !important
+}
+.box2:hover{
+     background-position:bottom;
+}
+
+.box3{
+    transition:3s !important
+}
+.box3:hover{
+     background-position:bottom;
+}
+
+.box4{
+    transition:3s !important
+}
+.box4:hover{
+     background-position:bottom;
+}
+
+.box5{
+    transition:3s !important
+}
+.box5:hover{
+     background-position:bottom;
+}
+
+
+.btndark:hover{
+background-color:rgb(189, 25, 25) ;
+color:white;
+}
+
+.h2a{
+    text-decoration: none;
+    font-size: 25PX;
+}
+.h2a{
+    transition: 1s ;
+}
+.h2a:hover{
+    color:rgba(7, 7, 240, 0.957) !important;
+}
+.divs{
+    margin-top: -40px;
+    background-color: white !important;
+    z-index: 59 !important;
+
+    margin-left: 0, auto;
+}
+.boxx i{
+    display: inline;
+}
